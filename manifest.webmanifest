@@ -1,0 +1,12 @@
+{
+  "name": "Koshkin Dom",
+  "short_name": "Koshkin Dom",
+  "id": "com.gugdun.koshkindom",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
